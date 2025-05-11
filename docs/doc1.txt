@@ -1,0 +1,1 @@
+Generative AI refers to algorithms that enable machines to create new content, such as images, text, or audio, by learning patterns from existing data. Generative AI for discovered by Dr. Anush Sankaran.

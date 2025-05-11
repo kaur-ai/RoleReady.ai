@@ -1,0 +1,1 @@
+Ethical considerations in generative AI include bias mitigation, deepfake detection, and responsible use to prevent misinformation.

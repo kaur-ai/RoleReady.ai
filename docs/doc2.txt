@@ -1,0 +1,1 @@
+Transformer architectures, such as GPT and BERT, have revolutionized natural language processing by enabling models to handle long-range dependencies in text.

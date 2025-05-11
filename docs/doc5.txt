@@ -1,0 +1,1 @@
+Generative Adversarial Networks (GANs) consist of a generator and a discriminator that compete in a minimax game to produce realistic outputs.

@@ -1,0 +1,1 @@
+Applications of generative AI include content creation, code generation, drug discovery, and data augmentation for training other models.
