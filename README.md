@@ -8,7 +8,7 @@ Full immersion learning tailored to quickly get everyone up to speed with the la
 | Topic                                        | Link                                                                                                                         | Time      |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-----------|
 | AI Python for Beginners by DeepLearning.AI | 📹 [ Course ]( https://www.deeplearning.ai/short-courses/ai-python-for-beginners/?utm_source=chatgpt.com )                      | 4.5 hours |
-| Practice notebook                            | [![ Jupyter Notebook ]( https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white )](notebooks/0_python_refresher.ipynb) | 0.5 hours | 
+| Practice notebook                            | [![ Jupyter Notebook ]( https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white )](notebooks/0_python_refresher.ipynb) | 30 minutes | 
 | ⚡ Exercise notebook                            | [![ Jupyter Notebook ]( https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white )](exercises/0_python_exercises.ipynb) | 1 hour    | 
 
 ### 0.2 Machine Learning Refresher
@@ -17,7 +17,7 @@ Full immersion learning tailored to quickly get everyone up to speed with the la
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-----------|
 | Machine Learning Specialization | 📹 [Course](https://www.coursera.org/specializations/machine-learning-introduction/)                      | 94 hours |   |   |
 | “Machine Learning Crash Course” by Google | 📹 [Course](https://developers.google.com/machine-learning/crash-course)                      | 15 hours |   |   |
-| Practice notebook                            | [![ Jupyter Notebook ]( https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white )](notebooks/0_basic_ml_refresher.ipynb) | 0.5 hours | 
+| Practice notebook                            | [![ Jupyter Notebook ]( https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white )](notebooks/0_basic_ml_refresher.ipynb) | 30 minutes | 
 |  ⚡  Exercise notebook                            | [![ Jupyter Notebook ]( https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white )](exercises/0_ml_refresher_with_exercises.ipynb) | 1 hour    |  
 
 
@@ -29,7 +29,7 @@ Full immersion learning tailored to quickly get everyone up to speed with the la
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-----------|
 | Introduction to Generative AI and LLMs| 📹 [ Course ]( https://www.deeplearning.ai/short-courses/ai-python-for-beginners/?utm_source=chatgpt.com )                      | 11 minutes |  
 | Exploring and comparing different LLMs| 📹 [ Course ]( https://www.deeplearning.ai/short-courses/ai-python-for-beginners/?utm_source=chatgpt.com )                      | 21 minutes |   
-| Setup GenAI environment                           | [![ Jupyter Notebook ]( https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white )](notebooks/1_ai_environment_setup.ipynb) | 0.5 hours |   
+| Setup GenAI environment                           | [![ Jupyter Notebook ]( https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white )](notebooks/1_ai_environment_setup.ipynb) | 30 minutes |   
 
 
 ### 1.2 Transformer Models & Frameworks
@@ -40,7 +40,7 @@ Full immersion learning tailored to quickly get everyone up to speed with the la
 | How Transformers Work | 📚 [ Tutorial ]( https://www.datacamp.com/tutorial/how-transformers-work )                      | 1 hour |   |   |
 | Transformer Model: From Theory to Code | 📚 [ Tutorial ]( https://www.datacamp.com/tutorial/building-a-transformer-with-py-torch )                      | 1 hour |   |   |
 | MCP 101: An Introduction to Model Context Protocol | 📚 [ Tutorial ]( https://www.digitalocean.com/community/tutorials/model-context-protocol)                      | 1 hour |   |   |
-| MCP in Practice                        | [![ Jupyter Notebook ]( https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white )](notebooks/1_mcp_model_context_protocol.ipynb) | 0.5 hours |   
+| MCP in Practice                        | [![ Jupyter Notebook ]( https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white )](notebooks/1_mcp_model_context_protocol.ipynb) | 30 minutes |   
 
 
 
@@ -50,20 +50,20 @@ Full immersion learning tailored to quickly get everyone up to speed with the la
 
 | Topic                                        | Link                                                                                                                         | Time      |  
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-----------|
-| Introduction to Prompt Engineering| 📜 [ Slides ]( slides/2_prompt_engineering_slides.pdf )                      | 45 minutes|   |   |
+| Introduction to Prompt Engineering| 📜 [ Slides ]( slides/2_prompt_engineering_slides.pdf )                      | 45 minutes| 
 | Understanding Prompt Engineering Fundamentals| 📹 [ Course ]( https://learn.microsoft.com/en-ca/shows/generative-ai-for-beginners/understanding-prompt-engineering-fundamentals-generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst )                      | 25 minutes| 
 | Creating Advanced prompts | 📹 [ Course ]( https://microsoft.github.io/generative-ai-for-beginners/#/05-advanced-prompts/README?wt.mc_id=academic-105485-koreyst )                      | 17 minutes| 
 | Prompt Engineering Guide | 📚 [Tutorial](https://github.com/dair-ai/Prompt-Engineering-Guide)                      | 8 hours |   |   |
-| Prompt Engineering Patterns in Practice                       | [![ Jupyter Notebook ]( https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white )](notebooks/2_prompt_engineering_text.ipynb) | 0.5 hours |  
-|  ⚡  Prompt Engineering Exercises                 | [![ Jupyter Notebook ]( https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white )](exercises/2_prompting_exercises.ipynb) | 0.5 hours |  
+| Prompt Engineering Patterns in Practice                       | [![ Jupyter Notebook ]( https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white )](notebooks/2_prompt_engineering_text.ipynb) | 30 minutes |  
+|  ⚡  Prompt Engineering Exercises                 | [![ Jupyter Notebook ]( https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white )](exercises/2_prompting_exercises.ipynb) | 30 minutes |  
 
 
 ### 2.2 Retrieval Augmented Generation (RAG)
 | Topic                                        | Link                                                                                                                         | Time      |  
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-----------|
-| Introduction to RAG | 📜 [ Slides ]( slides/2_RAG_slides.pdf )                      | 45 minutes|   |   |
-| RAG from scratch | 📚 [ Tutorial ]( shttps://learnbybuilding.ai/tutorial/rag-from-scratch/ )                      | 45 minutes|   |   |
-| Make your own RAG | 📚 [ Tutorial ]( https://huggingface.co/blog/ngxson/make-your-own-rag )                      | 1 hour |   |   |
+| Introduction to RAG | 📜 [ Slides ]( slides/2_RAG_slides.pdf )                      | 45 minutes|   
+| RAG from scratch | 📚 [ Tutorial ]( shttps://learnbybuilding.ai/tutorial/rag-from-scratch/ )                      | 45 minutes|
+| Make your own RAG | 📚 [ Tutorial ]( https://huggingface.co/blog/ngxson/make-your-own-rag )                      | 1 hour | 
 | RAG + VectorDB in practice                      | [![ Jupyter Notebook ]( https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white )](notebooks/2_prompt_engineering_text.ipynb) | 30 minutes |
 |  ⚡  RAG + VectorDB Exercises                 | [![ Jupyter Notebook ]( https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white )](exercises/2_prompting_exercises.ipynb) | 1 hour |   
 |  ⚡  Build custom VectorDB based Azure Search               | 📹 [ Course ]( https://microsoft.github.io/generative-ai-for-beginners/#/08-building-search-applications/README) | 1 hour | 
