@@ -121,5 +121,6 @@ Full immersion learning tailored to quickly get everyone up to speed with the la
 | Using Generative AI Responsibly  | 📹 [ Course ]( https://learn.microsoft.com/en-ca/shows/generative-ai-for-beginners/using-generative-ai-responsibly-generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst )                      | 10 minutes| 
 | Securing Your Generative AI Applications | 📹 [ Course ]( https://learn.microsoft.com/en-ca/shows/generative-ai-for-beginners/securing-your-generative-ai-applications-generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst )                      | 9 minutes| 
 | Designing UX for AI Applications| 📹 [ Course ]( https://learn.microsoft.com/en-ca/shows/generative-ai-for-beginners/designing-ux-for-ai-applications-generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst )                      | 13 minutes| 
+| OpenAI Safety evaluations hub | 📚 [ Tutorial ](https://openai.com/safety/evaluations-hub/)                      | 30 minutes | 
 
 
